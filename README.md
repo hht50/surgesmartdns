@@ -1,4 +1,4 @@
-# 🍟 Fries: 🌐 DNS enhanced (智能 DNS 增强配置)
+#  DNS enhanced (智能 DNS 增强配置)
 
 本项目是一个为 [Surge](https://nssurge.com/) 等网络工具设计的智能 DNS 增强配置文件。其核心目标是通过精细化的域名分流策略，为不同的网络服务选择最高效、最准确的 DNS 服务器，从而优化网络请求速度、提高解析成功率并增强网络体验。
 
